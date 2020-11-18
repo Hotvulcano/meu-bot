@@ -1,0 +1,197 @@
+{
+    "token": "",
+    "debug": true,
+    "prefix": "!",
+    "red": "#ff0000",
+
+    "avisosChannelId":"759823057572331530",
+
+    "permissions":{
+        "!aviso":[
+            {
+                "type": "role",
+                "value": "758126203168489543"
+            }
+        ],
+        "!clear":[
+            {
+                "type": "role",
+                "value": "686264747540480034"
+            }
+        ],
+        "!susanoo-1":[
+            {
+                "type": "role",
+                "value": "771796371321126912"
+            }
+        ],
+        "!susanoo-2":[
+            {
+                "type": "role",
+                "value": "769328613845631056"
+            }
+        ],
+        "!katon-1":[
+            {
+                "type": "role",
+                "value": "778386475892736011"
+            }
+        ],
+        "!katon-2":[
+            {
+                "type": "role",
+                "value": "778386466606678047"
+            }
+        ],
+        "!katon-3":[
+            {
+                "type": "role",
+                "value": "778386465334886450"
+            }
+        ],
+        "!katon-4":[
+            {
+                "type": "role",
+                "value": "778386438022234152"
+            }
+        ],
+        "!raiton-1":[
+            {
+                "type": "role",
+                "value": "758421002290987019"
+            }
+        ],
+        "!raiton-2":[
+            {
+                "type": "role",
+                "value": "777544314124238848"
+            }
+        ],
+        "!raiton-3":[
+            {
+                "type": "role",
+                "value": "772075908823646218"
+            }
+        ],
+        "!raiton-4":[
+            {
+                "type": "role",
+                "value": "758757856345587784"
+            }
+        ],
+        "!fuuton-1":[
+            {
+                "type": "role",
+                "value": "758430870582853653"
+            }
+        ],
+        "!fuuton-2":[
+            {
+                "type": "role",
+                "value": "777546556990947358"
+            }
+        ],
+        "!fuuton-3":[
+            {
+                "type": "role",
+                "value": "777546947891822622"
+            }
+        ],
+        "!fuuton-4":[
+            {
+                "type": "role",
+                "value": "777547243657363468"
+            }
+        ],
+        "!suiton-1":[
+            {
+                "type": "role",
+                "value": "758421182399119420"
+            }
+        ],
+        "!suiton-2":[
+            {
+                "type": "role",
+                "value": "777544455301365760"
+            }
+        ],
+        "!suiton-3":[
+            {
+                "type": "role",
+                "value": "777544038333022209"
+            }
+        ],
+        "!suiton-4":[
+            {
+                "type": "role",
+                "value": "758757275916959804"
+            }
+        ],
+        "!doton-1":[
+            {
+                "type": "role",
+                "value": "758421329232920586"
+            }
+        ],
+        "!doton-2":[
+            {
+                "type": "role",
+                "value": "777545976713838603"
+            }
+        ],
+        "!doton-3":[
+            {
+                "type": "role",
+                "value": "777546353231527998"
+            }
+        ],
+        "!doton-4":[
+            {
+                "type": "role",
+                "value": "758758126110769183"
+            }
+        ],
+        "!kunai":[
+            {
+                "type": "role",
+                "value": "759235344041771099"
+            }
+        ],
+        "!kunai-rapida":[
+            {
+                "type": "role",
+                "value": "759235344041771099"
+            }
+        ],
+        "!kunai-aleatoria":[
+            {
+                "type": "role",
+                "value": "759235344041771099"
+            }
+        ],
+        "!sharingan-1":[
+            {
+                "type": "role",
+                "value": "758334408037105725"
+            }
+        ],
+        "!sharingan-2":[
+            {
+                "type": "role",
+                "value": "758335443187007550"
+            }
+        ],
+        "!sharingan-3":[
+            {
+                "type": "role",
+                "value": "758335962605420583"
+            }
+        ],
+        "!byakugan-1":[
+            {
+                "type": "role",
+                "value": "758739094565289984"
+            }
+        ]
+    }
+}
